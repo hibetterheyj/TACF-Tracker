@@ -15,17 +15,15 @@ You can find this paper here: https://arxiv.org/abs/2008.00528.
 
 Please cite this paper as:
 
-@article{2008.00528,
-
-author = {Yujie He and Changhong Fu and Fuling Lin and Yiming Li and Peng Lu},
-
-title = {Towards Robust Visual Tracking for Unmanned Aerial Vehicle with Tri-Attentional Correlation Filters},
-
-year = {2020},
-
-journal = {arXiv:2008.00528}
-
-}
+```
+@inproceedings{He2020IROS,
+	title={{Towards Robust Visual Tracking for Unmanned Aerial Vehicle with Tri-Attentional Correlation Filters}},
+	author={He, Yujie and Fu, Changhong and Lin, Fuling and Li, Yiming and Lu, Peng},
+	booktitle={Proceedings of the IEEE International Conference on Intelligent Robots and Systems (IROS)},
+	year={2020},
+	pages={1575-1582}
+ }
+ ```
 
 ### Abstract 
 
@@ -59,7 +57,7 @@ journal = {arXiv:2008.00528}
 
 Yujie He
 
-Email: he-yujie@outlook.com
+Email: he-yujie@outlook.com / yujie.he@epfl.ch
 
 Changhong Fu
 
